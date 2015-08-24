@@ -1,0 +1,7 @@
+{
+    "name": "gaosiyuan/composer_test",
+    "require": {
+        "monolog/monolog": "1.16.0"
+
+    }
+}
